@@ -12,5 +12,5 @@ npm run dev
 2. Allow access to your public IP through methods such as port forwarding.
 3. Play game on your public IP.
 
-# Purpose
+# Security Concerns
 This is for enjoyment with acquaintances. Since this does not guarantee security, do not disclose your IP to strangers.
